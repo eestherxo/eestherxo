@@ -9,9 +9,9 @@
 
 <div align="center">
  
- 🔭 I’m currently working on **a Spam Detector**
+ 👩🏾‍💻 I’m currently working on **a Spam Detector**
  
- 🌱 I’m currently learning **APIs, Git, SQL**
+ 📚 I’m currently learning **APIs, Git, SQL**
 
  </div>
  
@@ -26,7 +26,7 @@
 
  <hr/>
  
-<h2 align="center">⚒️ Languages-Technologies ⚒️</h2>
+<h2 align="center"> Languages-Technologies ⚒️</h2>
 <br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=vscode,github,git" />
