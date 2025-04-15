@@ -1,20 +1,33 @@
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/c344ba4c-be8c-412e-96c4-b5eb02729001"
+</p>
 
-<h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Estherlee+Redman!;" />
-</h1>
+<p align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hey!+👋;+I'm+Esther!;" />
+</p>
 
-<h3 align="center">A passionate software developer from Jamaica ᴶᴹ</h3>
+--- 
 
-<br/>
+## 👩🏾‍💻 About me
+- Software Engineering & Chemistry major
+- I'm interested in Computaional Chemistry, Mobile Dev. & Data Science
+- A dark Academica & Greek Mythology connoisseur
 
-<div align="center">
+## 🌱 Working on
+- Builing and using APIs
+- Backend development with Spring Boot
+- Database design
+  
+ --- 
  
- 👩🏾‍💻 I’m currently working on **a Spam Detector**
- 
- 📚 I’m currently learning **APIs, Git, SQL**
+<h2 align="center"> Languages & Technologies </h2>
+<p align="center">
+    <img src="https://skillicons.dev/icons?i=python,java,postgresql" />
+    <img src="https://skillicons.dev/icons?i=git,spring" /><br>
+</p>
 
- </div>
- 
+![Esther's GitHub stats](https://github-readme-stats.vercel.app/api?username=eestherxo&hide=stars,issues&show_icons=true&theme=algolia)   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eestherxo&theme=algolia&hide_progress=true)
+
 <div align="center"> 
   <a href="mailto:estherlee.redman.0@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
@@ -23,14 +36,3 @@
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
   </a>
 </div>
-
- <hr/>
- 
-<h2 align="center"> Languages-Technologies </h2>
-<br/>
-<div align="center">
-    <img src="https://skillicons.dev/icons?i=vscode,github,git" />
-    <img src="https://skillicons.dev/icons?i=python,java,mysql" /><br>
-</div>
-
-<br/>
