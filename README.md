@@ -10,7 +10,7 @@
 
 ## 👩🏾‍💻 About me
 - Software Engineering & Chemistry major
-- I'm interested in Computational Chemistry, Mobile Dev. & Data Science
+- I'm interested in Computational Chemistry & Mobile Dev. 
 - A dark Academica & Greek Mythology connoisseur
 
 ## 🌱 Working on
