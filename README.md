@@ -8,12 +8,12 @@
 
 --- 
 
-## 👩🏾‍💻 About me
+## 👩🏾‍💻 About Me
 - Software Engineering & Chemistry major
-- I'm interested in Computational Chemistry & Mobile Dev. 
-- A dark Academica & Greek Mythology connoisseur
+- I'm interested in Computational Chemistry 
+- A Dark Academica & Greek Mythology connoisseur
 
-## 🌱 Working on
+## 🌱 Working On
 - Building and using APIs
 - Backend development with Spring Boot
 - Database design
