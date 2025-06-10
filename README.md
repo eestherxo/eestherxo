@@ -10,15 +10,15 @@
 
 ## 👩🏾‍💻 About Me
 - Software Engineering & Chemistry major
-- I'm interested in Computational Chemistry 
-- A Dark Academica & Greek Mythology connoisseur
+- From "Yeah, science!" enthusiasm to "Yeah, clean code!" obsession
+- A Dark Academia & Greek Mythology connoisseur
 
-## 🌱 Working On
-- Building and using APIs
-- Backend development with Spring Boot
-- Database design
+## 🔬 Working On
+- Diving into RDKit and other cheminformatics libraries 
+- Learning about molecular descriptors and QSAR modeling
+- Working through 'An introduction to Cheminformatics'
  
-## 🛠️ Languages & Technologies 
+## 🛠️ Tech Stack 
 <p align="center">
     <img src="https://skillicons.dev/icons?i=python,java,postgresql" />
     <img src="https://skillicons.dev/icons?i=git,spring" /><br>
