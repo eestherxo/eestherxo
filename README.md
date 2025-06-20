@@ -26,7 +26,7 @@
 
 
 ![Esther's GitHub stats](https://github-readme-stats.vercel.app/api?username=eestherxo&hide=stars,issues&show_icons=true&theme=algolia) 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eestherxo&theme=algolia&hide_progress=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eestherxo&theme=algolia)](https://github.com/eestherxo/github-readme-stats)
 
 
 ## 🌐 Contact me
