@@ -13,15 +13,15 @@
 - From "Yeah, science!" enthusiasm to "Yeah, clean code!" obsession
 - A Dark Academia & Greek Mythology connoisseur
 
-## 🔬 Working On
-- Diving into RDKit and other cheminformatics libraries 
-- Learning about molecular descriptors and QSAR modeling
-- Working through 'An introduction to Cheminformatics'
+## 🚧 Currently Working On
+- Exploring applications of data science in healthcare and scientific industries 
+- Improving my skills in data visualization 
+- Building data science projects using Python and SQL
  
 ## 🛠️ Tech Stack 
 <p align="center">
     <img src="https://skillicons.dev/icons?i=python,java,postgresql" />
-    <img src="https://skillicons.dev/icons?i=git,spring" /><br>
+    <img src="https://skillicons.dev/icons?i=git,anaconda,spring" /><br>
 </p>
 
 
