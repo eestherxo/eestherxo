@@ -2,38 +2,36 @@
   <img src="https://github.com/user-attachments/assets/c344ba4c-be8c-412e-96c4-b5eb02729001"
 </p>
 
-<p align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hey!+👋;+I'm+Esther!;" />
-</p>
+## 👋 Hi, I’m Esther
 
---- 
+I’m a **Software Engineering major with a Chemistry minor** who’s passionate about applying technology to the sciences. Right now, I’m especially interested in **bioinformatics**.
 
-## 👩🏾‍💻 About Me
-- Software Engineering & Chemistry major
-- From "Yeah, science!" enthusiasm to "Yeah, clean code!" obsession
-- A Dark Academia & Greek Mythology connoisseur
+When I’m not coding, you’ll probably find me:
+- 📚 **Reading** mystery, thriller, fantasy, and mythology novels  
+- 🎮 **Playing games** like Tomb Raider and Infamous: Second Son  
+- 🌏 **Binge-watching** anime and K-dramas, reading manga/webtoons,  
 
-## 🚧 Currently Working On
-- Exploring applications of data science in healthcare and scientific industries 
-- Improving my skills in data visualization 
-- Building data science projects using Python and SQL
+I enjoy blending my technical background with a bit of scientific curiosity. Feel free to check out my projects or connect with me!
+
  
-## 🛠️ Tech Stack 
+<h2 align="center" >💻Tech Stack</h2>
 <p align="center">
-    <img src="https://skillicons.dev/icons?i=python,java,postgresql" />
-    <img src="https://skillicons.dev/icons?i=git,anaconda,spring" /><br>
+    <img src="https://skillicons.dev/icons?i=html,css,python,java,postgresql" /><br>
+    <img src="https://skillicons.dev/icons?i=git,anaconda,spring" />
 </p>
 
 
-![Esther's GitHub stats](https://github-readme-stats.vercel.app/api?username=eestherxo&hide=stars,issues&show_icons=true&theme=algolia) 
+![Esther's GitHub stats](https://github-readme-stats.vercel.app/api?username=eestherxo&hide=stars,issues&show_icons=true&theme=algolia) &nbsp;
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eestherxo&theme=algolia)](https://github.com/eestherxo/github-readme-stats)
 
 
-## 🌐 Contact me
+<h2 align="center" >🌐Contact me</h2>
+<p align="center">
   <a href="mailto:estherlee.redman.0@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
-  </a>
+  </a> &nbsp;
   <a href="https://linkedin.com/in/estherlee-redman" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
   </a>
+  </p>
 
