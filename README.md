@@ -18,11 +18,10 @@ I enjoy blending my technical background with a bit of scientific curiosity. Fee
 <p align="center">
     <img src="https://skillicons.dev/icons?i=html,css,python,java,postgresql" /><br>
     <img src="https://skillicons.dev/icons?i=git,anaconda,spring" />
+
+![Esther's GitHub stats](https://github-readme-stats.vercel.app/api?username=eestherxo&hide=stars,issues&show_icons=true&theme=onedark) &nbsp;
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eestherxo&layout=compact&theme=onedark)
 </p>
-
-
-![Esther's GitHub stats](https://github-readme-stats.vercel.app/api?username=eestherxo&hide=stars,issues&show_icons=true&theme=algolia) &nbsp;
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eestherxo&theme=algolia)](https://github.com/eestherxo/github-readme-stats)
 
 
 <h2 align="center" >🌐Contact me</h2>
